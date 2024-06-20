@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: GPL-2.0-only
+obj-$(CONFIG_MT7601U)	+= mt7601u/
+obj-$(CONFIG_MT76_CORE)	+= mt76/
+obj-$(CONFIG_MTK_WIFI_ONLY)	+= mt76x8/
+obj-$(CONFIG_MTK_COMBO)	+= mt76x8/
+obj-$(CONFIG_MTK_COMBO_WIFI)	+= mt76x8/
+obj-$(CONFIG_MTK_COMBO_COMM)	+= mt76x8/
+obj-$(CONFIG_MTK_COMBO_COMM_UART)	+= mt76x8/
+obj-$(CONFIG_MTK_COMBO_COMM_SDIO)	+= mt76x8/
+obj-$(CONFIG_MTK_MT_WIFI_CHRDEV)	+= mt76x8/
