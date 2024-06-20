@@ -1,5 +1,5 @@
 # PS4 Belize 5.15.15 Kernel with MT7668 WiFi/BT Fix (with DNS issue fix) & VPN support
-The modified kernel based on [codedwrench's source ](https://ps4linux.com/downloads/#Kernel_515) includes:-
+The modified kernel based on [codedwrench's source](https://ps4linux.com/downloads/#Kernel_515) includes:-
 1. Fix and support for MT7668 WiFi/Bluetooth chipset with fix for DNS issues on PS4s with MT7668 chipset, as explained [here](https://ps4linux.com/dns-issues-mt7668-ps4-linux-fix/)
 2. VPN support (Wireguard, OpenVPN), as explained [here](https://ps4linux.com/ps4-linux-vpn-wireguard-openvpn/)
 
